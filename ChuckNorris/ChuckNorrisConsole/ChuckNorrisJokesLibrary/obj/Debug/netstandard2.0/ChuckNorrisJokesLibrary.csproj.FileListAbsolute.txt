@@ -1,0 +1,24 @@
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.deps.json
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.csprojAssemblyReference.cache
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfoInputs.cache
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfo.cs
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.deps.json
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.csprojAssemblyReference.cache
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfoInputs.cache
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfo.cs
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.deps.json
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.csprojAssemblyReference.cache
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfoInputs.cache
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfo.cs
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb

@@ -1,0 +1,14 @@
+﻿<Window x:Class="ChuckNorrisWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChuckNorrisWpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="ChuckJokes" Content="CHUCK JOKES" HorizontalAlignment="Left" Margin="197,217,0,0" VerticalAlignment="Top" Height="136" Width="356" RenderTransformOrigin="0.13,-0.059" Click="Button_Click" FontSize="36" Background="#FFD33434"/>
+        <TextBox x:Name="JokeTextBox" HorizontalAlignment="Left" Margin="81,56,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="647" Height="117" FontSize="16"/>
+
+    </Grid>
+</Window>

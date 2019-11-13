@@ -1,0 +1,45 @@
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.exe
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.deps.json
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.runtimeconfig.json
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.runtimeconfig.dev.json
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.dll
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.pdb
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.csprojAssemblyReference.cache
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.AssemblyInfoInputs.cache
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.AssemblyInfo.cs
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.dll
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.pdb
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisJokesLibrary.dll
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisJokesLibrary.pdb
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.csproj.CopyComplete
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.exe
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.deps.json
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.runtimeconfig.json
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.runtimeconfig.dev.json
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.dll
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.pdb
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisJokesLibrary.dll
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisJokesLibrary.pdb
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.csprojAssemblyReference.cache
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.AssemblyInfoInputs.cache
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.AssemblyInfo.cs
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.csproj.CopyComplete
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.dll
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.pdb
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.exe
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.deps.json
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.runtimeconfig.json
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.runtimeconfig.dev.json
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.dll
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisConsole.pdb
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisJokesLibrary.dll
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\bin\Debug\netcoreapp3.0\ChuckNorrisJokesLibrary.pdb
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.csprojAssemblyReference.cache
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.AssemblyInfoInputs.cache
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.AssemblyInfo.cs
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.csproj.CopyComplete
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.dll
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisConsole\obj\Debug\netcoreapp3.0\ChuckNorrisConsole.pdb

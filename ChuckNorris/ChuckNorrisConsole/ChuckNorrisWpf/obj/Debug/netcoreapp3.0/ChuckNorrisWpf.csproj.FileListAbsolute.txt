@@ -1,0 +1,63 @@
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.exe
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.deps.json
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.runtimeconfig.json
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.runtimeconfig.dev.json
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.dll
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.pdb
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.csprojAssemblyReference.cache
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf_MarkupCompile.cache
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf_MarkupCompile.lref
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.g.resources
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.AssemblyInfoInputs.cache
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.AssemblyInfo.cs
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.dll
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.pdb
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisJokesLibrary.dll
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisJokesLibrary.pdb
+C:\Users\Dalton.Bessick\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.csproj.CopyComplete
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.exe
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.deps.json
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.runtimeconfig.json
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.runtimeconfig.dev.json
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.dll
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.pdb
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisJokesLibrary.dll
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisJokesLibrary.pdb
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.csprojAssemblyReference.cache
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf_MarkupCompile.cache
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf_MarkupCompile.lref
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.g.resources
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.AssemblyInfoInputs.cache
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.AssemblyInfo.cs
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.csproj.CopyComplete
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.dll
+C:\Users\Jermaine Africa\Documents\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.pdb
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.exe
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.deps.json
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.runtimeconfig.json
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.runtimeconfig.dev.json
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.dll
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisWpf.pdb
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisJokesLibrary.dll
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\bin\Debug\netcoreapp3.0\ChuckNorrisJokesLibrary.pdb
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.csprojAssemblyReference.cache
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\App.g.cs
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf_MarkupCompile.cache
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf_MarkupCompile.lref
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.g.resources
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.AssemblyInfoInputs.cache
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.AssemblyInfo.cs
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.csproj.CopyComplete
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.dll
+D:\Projects\Chuck Norries Jokes\Chunk-Norris-Jokes\ChuckNorris\ChuckNorrisConsole\ChuckNorrisWpf\obj\Debug\netcoreapp3.0\ChuckNorrisWpf.pdb
